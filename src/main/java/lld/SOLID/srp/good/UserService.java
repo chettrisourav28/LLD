@@ -1,4 +1,4 @@
-package GoodCode;
+package main.java.lld.SOLID.srp.good;
 
 public class UserService {
     private final UserValidator  validator= new UserValidator();

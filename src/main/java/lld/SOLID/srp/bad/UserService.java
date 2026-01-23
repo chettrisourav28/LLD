@@ -1,4 +1,4 @@
-package BadCode;
+package main.java.lld.SOLID.srp.bad;
 
 class UserService {
 

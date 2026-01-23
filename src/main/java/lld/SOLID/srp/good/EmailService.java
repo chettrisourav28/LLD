@@ -1,4 +1,4 @@
-package GoodCode;
+package main.java.lld.SOLID.srp.good;
 
 public class EmailService {
        public void sendWelcomeEmail(String email) {

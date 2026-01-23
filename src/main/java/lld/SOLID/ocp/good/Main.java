@@ -1,4 +1,4 @@
-package main.java.lld.ocp.good;
+package main.java.lld.SOLID.ocp.good;
 
 public class Main {
     public static void main(String[] args) {

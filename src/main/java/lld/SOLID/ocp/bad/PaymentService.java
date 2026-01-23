@@ -1,4 +1,4 @@
-package main.java.lld.ocp.bad;
+package main.java.lld.SOLID.ocp.bad;
 
 
 class PaymentService {

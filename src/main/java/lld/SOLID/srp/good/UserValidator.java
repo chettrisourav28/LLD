@@ -1,4 +1,4 @@
-package GoodCode;
+package main.java.lld.SOLID.srp.good;
 
 class UserValidator {
 
