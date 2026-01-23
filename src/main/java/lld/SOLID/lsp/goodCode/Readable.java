@@ -1,5 +1,5 @@
 package main.java.lld.SOLID.lsp.goodCode;
 
-public interface Rreadable {
-
+public interface Readable {
+    void read();
 }
